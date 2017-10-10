@@ -1,0 +1,24 @@
+{
+  "name": "cms-tobias-brage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "nodemon": "^1.12.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TobiasBrage/cms-tobias-brage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TobiasBrage/cms-tobias-brage/issues"
+  },
+  "homepage": "https://github.com/TobiasBrage/cms-tobias-brage#readme"
+}
